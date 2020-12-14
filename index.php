@@ -383,7 +383,7 @@
         <p></p>
         <p></p>
         <div class="text-center mb-3">
-          <button type="button" class="btn blue-gradient btn-block btn-rounded z-depth-1a"><a  href="inicio.php">Ingresar</a></button>
+          <a  class="btn blue-gradient btn-block btn-rounded z-depth-1a"  href="inicio.php">Ingresar</a>
           <p class="font-small blue-text d-flex justify-content-end">¿No tiene cuenta?<a href="#" class="blue-text ml-1" data-toggle="modal" data-target="#elegantModalFormRegister">
               Registrese aqui</a></p>
         </div>
